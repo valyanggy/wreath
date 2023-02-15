@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+
+  
+
+body {
+    overflow: hidden;
+    margin: 10px;
+    background-color: #000000;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    color: #9cef9f;
+}
